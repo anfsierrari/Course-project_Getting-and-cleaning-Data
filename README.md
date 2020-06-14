@@ -10,4 +10,5 @@ This includes the selection only of the variables correspondig to the mean or st
 Finally the scripts create a new tidy data set with the means of all the variables previously selected organized by the different type
 of activity and by each experiment subject.
 
-The codebook contains all the information related to the data (contents, structure and layout).
+The codebook contains all the information related to the data (contents, structure and layout) it was creatded with the function
+makeCodebook() from the dataMaid package https://CRAN.R-project.org/package=dataMaid.
